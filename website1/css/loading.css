@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap')
+
+body {
+    font-family: "Anta", sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.loading-text {
+    font-size: 50px;
+}
