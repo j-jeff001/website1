@@ -1,7 +1,5 @@
-
-
 * {
-    box-sizing: border
+    box-sizing: border-box;
 }
 
 
@@ -16,22 +14,22 @@ body {
 }
 
 .search {
-    height: 200px;
+    height: 50px;
     position: relative;
 }
 
 
-.search .btn{
+.search .btn {
     position: absolute;
     top: 0;
-    left: 0px;
+    right: 0px;
     font-size: 24px;
     background-color: white;
     border: 0;
     height: 50px;
     width: 50px;
     cursor: pointer: 15px;
-    transition: transform 3s ease;
+    transition: transform 1s ease;
 }
 
 
@@ -41,8 +39,8 @@ body {
     font-size: 18px;
     height: 50px;
     width: 50px;
-    padding: 15p;
-    transition: width 3s ease;
+    padding: 15px;
+    transition: width 1s ease;
 }
 
 .search .input:focus {
