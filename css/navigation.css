@@ -19,4 +19,13 @@ body {
 }
 
 .hero {
-  background-image: ulr();
+  background-image: ulr(images/computer-dead.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
