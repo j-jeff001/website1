@@ -19,7 +19,7 @@ body {
 }
 
 .hero {
-  background-image: ulr(images/computer-dead.jpg);
+  background-image: URL(css/images/computer-dead.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
