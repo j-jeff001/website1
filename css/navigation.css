@@ -45,3 +45,23 @@ body {
   z-index: -1;
 }
 
+.hero h1 {
+  font-size: 46px;
+  margin: 0 0 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.content h2, .content h3 {
+  font-size: 150%;
+  margin: 20px;
+}
+
+.content p {
+  color: #555;
+  line-height: 30px;
+  letter-spacing: 1.2px;
+}
